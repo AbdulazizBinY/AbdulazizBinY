@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz Binyabis</h1>
 <h3 align="center">Software Engineering student at King Fahd University of Petroleum and Minerals</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Java, Python**
 
